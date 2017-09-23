@@ -9,8 +9,8 @@ There are 2 main folders:
 
 <b>1. LIB:</b> containing two libraries needed for the creation of the software:
 
-  * <b>JSON-simple-1.1.1:</b> which allowed me to work with JSON files.<br>
-  * <b>JUNIT-4.7.</b> which allowed me to test my classification algorithms in a correct way.
+  * <b>JSON</b>
+  * <b>JUNIT</b>
   
 <b>2. SRC:</b> containing the main files of the project:
 
@@ -29,8 +29,3 @@ The output will be also a JSON file, with the same name as the input one, but co
 * <b>Exponential:</b> The output will contain the value <b>"λ"</b>, which defines the distribution.
 * <b>Normal:</b> The output will contain the <b>mean</b> and the <b>standard devitation</b> of the distribution.
 * <b>T-student:</b> The output will contain the <b>"degrees of freedom"</b>, characteristic value of a T-student distribution.
-
-## Downloads:
-
-* <a href="http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm">JSON Library</a>
-* <a href="http://www.java2s.com/Code/Jar/j/Downloadjunitjar.htm">JUNIT Library</a>
